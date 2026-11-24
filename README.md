@@ -58,6 +58,11 @@ Crates with keys and a rolling opening animation. Reward chances with a preview 
 
 [GitHub](https://github.com/wintermarkinteractive/WintermarkCrates)
 
+### Wintermark Daily Rewards `v1.0`
+Daily login rewards with a calendar menu, streaks, streak bonuses at milestones, streak freezes that protect missed days, a clickable join reminder and an in-game timezone setting.
+
+[GitHub](https://github.com/wintermarkinteractive/WintermarkDaily)
+
 ### Wintermark Onboarding `v1.0`
 First-join onboarding with Minecraft's native dialog screens: welcome, rules (accept or decline, optional strict mode before joining), choose your start, new player checklist with rewards.
 
