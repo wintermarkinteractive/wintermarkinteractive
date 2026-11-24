@@ -53,6 +53,11 @@ AFK zones with a bossbar countdown and rewards. Selection wand with particle out
 
 [GitHub](https://github.com/wintermarkinteractive/WintermarkAFKZones)
 
+### Wintermark Crates `v1.0`
+Crates with keys and a rolling opening animation. Reward chances with a preview menu, holograms and particles, mass open, server-wide broadcasts for rare wins. Works together with AFK Zones (AFK rewards can give crate keys).
+
+[GitHub](https://github.com/wintermarkinteractive/WintermarkCrates)
+
 ### Wintermark Onboarding `v1.0`
 First-join onboarding with Minecraft's native dialog screens: welcome, rules (accept or decline, optional strict mode before joining), choose your start, new player checklist with rewards.
 
