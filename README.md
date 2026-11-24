@@ -46,9 +46,23 @@ Hire outside companies for any job (development, updates, ports, beta), with a f
 
 ---
 
+## Released: Minecraft plugins (Paper 26.3, free, open source)
+
+### Wintermark AFK Zones `v1.0`
+AFK zones with a bossbar countdown and rewards. Selection wand with particle outlines, reward profiles with chances, anti-alt (max per IP), stats and a top-10 leaderboard, `/afkzone tp`.
+
+[GitHub](https://github.com/wintermarkinteractive/WintermarkAFKZones)
+
+### Wintermark Onboarding `v1.0`
+First-join onboarding with Minecraft's native dialog screens: welcome, rules (accept or decline, optional strict mode before joining), choose your start, new player checklist with rewards.
+
+[GitHub](https://github.com/wintermarkinteractive/WintermarkOnboarding)
+
+---
+
 ## Coming next
 
-- **Minecraft:** Paper/Spigot plugins and ready-made server setups (Modrinth, CurseForge, BuiltByBit)
+- **Minecraft:** ready-made server setups and custom plugins for server owners
 - **Roblox:** *AI Data Center Tycoon* and reusable Roblox systems
 
 ## Commissions
