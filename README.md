@@ -48,6 +48,17 @@ Hire outside companies for any job (development, updates, ports, beta), with a f
 
 ## Released: Minecraft plugins (Paper 26.3, free, open source)
 
+### Wintermark Economy Suite `v1.0` · 3 plugins
+A complete custom economy for SMP servers, built to work together (each one also works on its own, Bounties and Auctions with any Vault economy):
+
+| Plugin | What it does | Link |
+|---|---|---|
+| **Economy** | Balances, `/pay`, baltop, anti-dupe banknotes, transaction history, pay safety, SQLite, Vault support, Java API | [GitHub](https://github.com/wintermarkinteractive/WintermarkEconomy) |
+| **Bounties** | Head menu, stacking bounties, head drops, top hunters, auto bounties on killing sprees, anti-abuse, expiry with refunds | [GitHub](https://github.com/wintermarkinteractive/WintermarkBounties) |
+| **Auctions** | Auction house with categories, search, sorting, collection box, sales tax, VIP limits, offline sale summaries | [GitHub](https://github.com/wintermarkinteractive/WintermarkAuctions) |
+
+AFK Zones, Crates and Daily Rewards can pay out with the suite's `eco give` command.
+
 ### Wintermark AFK Zones `v1.0`
 AFK zones with a bossbar countdown and rewards. Selection wand with particle outlines, reward profiles with chances, anti-alt (max per IP), stats and a top-10 leaderboard, `/afkzone tp`.
 
