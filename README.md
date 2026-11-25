@@ -59,6 +59,17 @@ A complete custom economy for SMP servers, built to work together (each one also
 
 AFK Zones, Crates and Daily Rewards can pay out with the suite's `eco give` command.
 
+### Wintermark Magic Chests `v1.0`
+Enshrouded-style magic storage: craft, smelt and use stations with the items in your nearby chests instead of your inventory.
+
+- Craft from chests with the vanilla recipe book or a Storage Crafting menu with search
+- Smelt from storage: furnaces, smokers and blast furnaces pull input and fuel from chests and put the output back
+- Stonecutter and smithing table menus that use chest items
+- `/storage` menu with search to see and take everything in your chests
+- SMP-safe: owners and trusted players, explosion-proof, no duping, SQLite
+
+[GitHub](https://github.com/wintermarkinteractive/WintermarkMagicChests)
+
 ### Wintermark AFK Zones `v1.0`
 AFK zones with a bossbar countdown and rewards. Selection wand with particle outlines, reward profiles with chances, anti-alt (max per IP), stats and a top-10 leaderboard, `/afkzone tp`.
 
